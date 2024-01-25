@@ -1,0 +1,57 @@
+.todos__item {
+  margin: 10px auto 0;
+  width: 800px;
+  list-style: none;
+  font-size: 24px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.todos__item_type_done {
+  text-decoration: line-through;
+  opacity: .5;
+}
+
+.todos__box {
+  display: flex;
+  flex-direction: row;
+}
+
+.todos__lable {
+  border: none;
+  font-size: 18px;
+  align-self: center;
+  margin-left: 10px;
+  width: 400px;
+  white-space: nowrap; /* Текст не переносится */
+  overflow: hidden; /* Обрезаем всё за пределами блока */
+  text-overflow: ellipsis;
+}
+
+.todos__buttons {
+  display: flex;
+  justify-content: end;
+  align-items: center;
+}
+
+.todos__btn {
+  font-size: 18px;
+  border-radius: 10px;
+  padding: 5px 10px;
+  margin-left: 10px;
+  transition: 1s;
+  background-color: transparent;
+}
+
+.todos__btn_type_important {
+  background-color: rgb(237, 245, 0);
+}
+
+.todos__btn_type_edit {
+  background-color:  rgb(111, 232, 165);
+}
+
+.todos__btn_type_delete {
+  background-color:  rgb(234, 29, 18);
+}

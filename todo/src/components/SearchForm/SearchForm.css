@@ -1,0 +1,30 @@
+.search-form {
+  margin: 10px auto;
+}
+
+.search-form__button {
+  font-size: 18px;
+  border-radius: 10px;
+  padding: 10px 20px;
+  background-color:  rgb(174, 172, 255);
+  transition: 1s;
+}
+
+.search-form__form {
+  display: flex;
+  justify-content: center;
+  margin: 10px auto;
+}
+
+.search-form__input {
+  font-size: 24px;
+  padding: 5px;
+}
+
+.search-form__btn {
+  font-size: 18px;
+  border-radius: 10px;
+  padding: 10px 20px;
+  background-color:  rgb(174, 172, 255);
+  transition: 1s;
+}
