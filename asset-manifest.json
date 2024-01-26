@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/toDoRedux/static/css/main.cf25988f.css",
+    "main.js": "/toDoRedux/static/js/main.fb355fcc.js",
+    "static/js/787.8eb42f38.chunk.js": "/toDoRedux/static/js/787.8eb42f38.chunk.js",
+    "static/media/faq.png": "/toDoRedux/static/media/faq.256537c142ba5ffc2e6c.png",
+    "index.html": "/toDoRedux/index.html",
+    "main.cf25988f.css.map": "/toDoRedux/static/css/main.cf25988f.css.map",
+    "main.fb355fcc.js.map": "/toDoRedux/static/js/main.fb355fcc.js.map",
+    "787.8eb42f38.chunk.js.map": "/toDoRedux/static/js/787.8eb42f38.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf25988f.css",
+    "static/js/main.fb355fcc.js"
+  ]
+}
